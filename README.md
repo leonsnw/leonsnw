@@ -1,8 +1,8 @@
 # Olá! Eu sou o Leonardo Nascimento 🙋‍♂️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonsnw&count_private=true&show_icons=true&theme=merko&token=${{ secrets.GH_TOKEN }})
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonsnw&count_private=true&show_icons=true&theme=merko)
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonsnw&layout=compact&count_private=true&theme=merko&token=${{ secrets.GH_TOKEN }}" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonsnw&layout=compact&count_private=true&theme=merko" alt="Top Langs">
   <img src="https://c.tenor.com/5ry-200hErMAAAAd/tenor.gif" alt="Gif" width="150">
 </div>
 
