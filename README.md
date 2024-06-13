@@ -1,9 +1,15 @@
 # Olá! Eu sou o Leonardo Nascimento 🙋‍♂️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonsnw&count_private=true&show_icons=true&theme=dark)
-
-  ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonsnw&layout=compact&count_private=true&theme=dark)
-
+<table style="background-color: transparent; border: none;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=leonsnw&count_private=true&show_icons=true&theme=dark" alt="Anurag's GitHub stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonsnw&layout=compact&count_private=true&theme=dark" alt="TopLangs">
+    </td>
+  </tr>
+</table>
 
 ## Tecnologias que utilizo no cotidiano
 
@@ -21,7 +27,3 @@ Sou estudante de Engenharia de Software na [Católica SC](https://www.catolicasc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-nascimento-903905193/)
 
 <img src="https://www.videogamesprites.net/ChronoTrigger/Party/Robo/Robo%20-%20Walk%20(Front).gif"> <img src="https://www.arcadeartwork.org/galleries/snesanimsprites/bobsnes57.gif">
-
-
-
-
