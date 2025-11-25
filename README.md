@@ -16,8 +16,6 @@
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software na [Católica SC](https://www.catolicasc.org.br), e técnico em Eletroeletrônica pelo [IFSC](https://www.ifsc.edu.br/web/campus-joinville). 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-nascimento-903905193/)
 
 <img src="https://www.videogamesprites.net/ChronoTrigger/Party/Robo/Robo%20-%20Walk%20(Front).gif"> <img src="https://www.arcadeartwork.org/galleries/snesanimsprites/bobsnes57.gif">
